@@ -43,3 +43,8 @@ Este é um projeto simples de um sistema bancário em Python desenvolvido para u
 
 - O sistema trabalha com **apenas um usuário**.
 - Os dados são armazenados **temporariamente em memória** (não persistem após encerrar o programa).
+
+## 📝 Licença
+
+Este projeto está licenciado sob os termos da [Licença GNU](LICENSE).
+
